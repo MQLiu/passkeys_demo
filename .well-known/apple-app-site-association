@@ -1,0 +1,11 @@
+{
+"applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "5WYQ6W63Z9.com.163.passkeys.demo",
+                "paths": ["*"]
+            }
+        ]
+    }
+}
